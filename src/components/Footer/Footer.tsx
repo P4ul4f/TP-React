@@ -3,7 +3,7 @@
 const Footer = () => {
     return(
         <>
-           <footer className="mt-auto py-3"style={{color:"black", backgroundColor:"#FFE3E3", padding:"20px"}}>
+           <footer className="mt-auto py-3"style={{color:"white", backgroundColor:"#2F013E", padding:"20px"}}>
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 col-12">

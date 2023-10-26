@@ -8,7 +8,7 @@ const AboutUs = () => {
         <CardGroup style={{padding:"40px", gap:"25px"}}>
             
             <Card>
-                <Card.Img variant="top" src="src/assets/images/moon.jpg" />
+                <Card.Img variant="top" src="https://musicart.xboxlive.com/7/c2255100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" style={{height:"85vh"}}/>
                 <Card.Body>
                 <Card.Title>Card title</Card.Title>
                 <Card.Text>
@@ -18,7 +18,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="src/assets/images/magician.jpg" />
+                <Card.Img variant="top" src="https://4.bp.blogspot.com/-0kweTW2ZwIk/Vnhh-PFoYmI/AAAAAAAAL6A/BzUvW0aCv_c/s1600/Empire_strikes_back_old.jpg" style={{height:"85vh"}} />
                 <Card.Body>
                 <Card.Title>Card title</Card.Title>
                 <Card.Text>
@@ -28,7 +28,7 @@ const AboutUs = () => {
                 </Card.Body>
             </Card>
             <Card>
-                <Card.Img variant="top" src="src/assets/images/lovers.jpg" />
+                <Card.Img variant="top" src="https://observandocine.com/wp-content/uploads/2015/12/star_wars_vi___return_of_the_jedi___movie_poster_by_nei1b-d5t3b8d.jpg" style={{height:"85vh"}} />
                 <Card.Body>
                 <Card.Title>Card title</Card.Title>
                 <Card.Text>
